@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Rcatch22"]
+	path = Rcatch22
+	url = https://github.com/hendersontrent/rcatch22
+	shallow = true
+	registered = true
+[submodule "theft"]
+	path = theft
+	url = https://github.com/hendersontrent/theft
+	shallow = true
+	registered = true
