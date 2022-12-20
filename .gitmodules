@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "correctR"]
+	path = correctR
+	url = https://github.com/hendersontrent/correctr
+	shallow = true
+	registered = true
 [submodule "Rcatch22"]
 	path = Rcatch22
 	url = https://github.com/hendersontrent/rcatch22

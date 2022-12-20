@@ -1,5 +1,9 @@
 [
   {
+    "package": "correctR",
+    "oncran": true
+  },
+  {
     "package": "Rcatch22",
     "oncran": true
   },
