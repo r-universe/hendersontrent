@@ -1,10 +1,10 @@
 [
   {
-    "package": "correctR",
+    "package": "Rcatch22",
     "oncran": true
   },
   {
-    "package": "Rcatch22",
+    "package": "correctR",
     "oncran": true
   },
   {
