@@ -8,6 +8,9 @@
 [submodule "correctR"]
 	path = correctR
 	url = https://github.com/hendersontrent/correctr
+[submodule "normaliseR"]
+	path = normaliseR
+	url = https://github.com/hendersontrent/normaliser
 [submodule "theft"]
 	path = theft
 	url = https://github.com/hendersontrent/theft
