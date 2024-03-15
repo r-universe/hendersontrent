@@ -14,3 +14,6 @@
 [submodule "theft"]
 	path = theft
 	url = https://github.com/hendersontrent/theft
+[submodule "theftdlc"]
+	path = theftdlc
+	url = https://github.com/hendersontrent/theftdlc
